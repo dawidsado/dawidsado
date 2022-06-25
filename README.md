@@ -8,5 +8,6 @@
 
 ###  🤝 Connect with me:
 
+<a href="ttps://www.linkedin.com/in/dawid-sadownik-429468236/"<img align=”left” src=”https://raw.githubusercontent.com/dawidsado/dawidsado/main/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
 
 
