@@ -10,7 +10,7 @@
 
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/dawid-sadownik-429468236/#gh-dark-mode-only)
 
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/dawidsado_/#gh-dark-mode-only)
+[![website](Instagram-512.webp)](https://www.instagram.com/dawidsado_/#gh-dark-mode-only)
 <br>
 </br>
 
