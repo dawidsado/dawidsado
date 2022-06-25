@@ -6,7 +6,7 @@
 - 💫 2022 Goals: Learn more about SAP ERP software, reach intermediate level of SQL
 - 🏃‍♂️ Fun fact: I train long - distance running
 
-###🤝 Connect with me:
+### 🤝 Connect with me:
 
 <br>
 </br>
