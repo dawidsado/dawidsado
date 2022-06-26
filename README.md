@@ -34,27 +34,26 @@ Class BankAccount implements the AccountOperations interface, which enables to: 
 BankAccount has information about the balance (default it is 0) and the transaction list assigned to the account.
 In case of incorrect data given to transfer I created the AccountOperationException.
 
-Class Transaction represent bank transactions. There is information about the sum of transaction, receiver and sender accounts. The class also enables us to get all information.
+Class Transaction represent bank transactions. There is information about the sum of transaction, receiver and sender accounts. The class also enables us to simulate the transaction process (amount of money is deleted and added to given accounts). 
 
-User object cannot be created inside the system, class has a first name and last name attributes.
+The user class has first name and last name attributes and a constructor.
 There are three types of users (3 classes).
-1.	Client - has assigned account (in general-id of users is generated automatically), is able to use operations from the account.
-2.	Employee - is able to add new clients and open a new account. Also, can accept deposits from the client (on private or someone else account).
-3.	Admin - the same abilities as Employee, can add and remove employees.
+1.	Client - has assigned account (in general-id of users is generated automatically), is able to use operations from the account. (super constructor and implementation of interface)
+2.	 Employee - is able to add new clients and open a new account.
+3.	 Admin – also can add new clients, additionally can add and remove employees.
 
-In addition, I created CreditCardForm class, which is responsible for the process of credit card registration and extends User. Class store number of the card, CVC code and expiration year, which is randomly picked from static ArrayList where available years are located (20 next years from current). The list should be initialized with the use of a static initialization block. To get current year I use the LocalDate class.
+In addition, I created CreditCardForm class, which is responsible for the process of credit card registration and extends Client. Class store number of the card, CVC code and expiration year, which is randomly picked from static list where available years are located (20 next years from current). The list should be initialized with the use of a static initialization block. To get current year I use the Date class. 
 
 #### What had I learned during that task? 🤔
 
-•	Working with interfaces, abstract and inheritance classes
+•	Working with interfaces, subclass constructors, abstract and inheritance classes
 
 •	More practical use of lists
 
 •	Creating and throwing custom exceptions
 
-•	Use of LocalDate class 
+•	Use of Date class 
 
-•	Implementation of iteration loops
 
 
 ### 2. MiniShoppingApp 🛒
