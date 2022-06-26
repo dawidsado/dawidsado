@@ -6,18 +6,10 @@
 - 💫 2022 Goals: Learn more about SAP ERP software, reach intermediate level of SQL
 - 🏃‍♂️ Fun fact: I train long - distance running
 
-###  🤝 Connect with me:
+##  📈 GitHub stats:
 
-![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=dawidsado)](https://github.com/dawidsado)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dawidsado&layout=compact)](https://github.com/dawidsado)
 
-
-
-
-
-
-
-
-
-
-[2]:https://www.linkedin.com/in/https://www.linkedin.com/in/dawid-sadownik-429468236/
+##  🤝 Connect with me:
