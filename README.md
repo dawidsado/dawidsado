@@ -14,3 +14,6 @@
 
 ##  🤝 Connect with me:
 
+<a href="https://www.linkedin.com/in/dawid-sadownik/">
+  
+<img align=”left” src=”https://raw.githubusercontent.com/dawidsado/dawidsado/main/ImagesREADME/linkedin.svg" alt= | LinkedIn” width=”21px”/></a>
