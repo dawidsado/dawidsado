@@ -14,6 +14,7 @@
 
 ##  🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/dawid-sadownik/">
-  
-<img align=”left” src=”https://raw.githubusercontent.com/dawidsado/dawidsado/main/ImagesREADME/linkedin.svg" alt= | LinkedIn” width=”21px”/></a>
+[![alt text][1.1]][1]
+
+[1.1]: https://cdn-icons.flaticon.com/png/512/2504/premium/2504923.png?token=exp=1656244792~hmac=a932c8c009f584098e5f6fd432b37429 (linkedin icon)
+[1]: https://www.linkedin.com/in/dawid-sadownik-429468236/
