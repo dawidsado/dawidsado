@@ -3,8 +3,7 @@
 ## I'm a student at Polish - Japanese Academy of Information Technology 🇵🇱 🇯🇵
 
 - ☕ I’m currently learning about fundamental aspects of OOP in Java and ERP software, especially SAP
-- 💫 2022 Goals: Learn more about SAP ERP software, reach intermediate level of SQL
-- 🏃‍♂️ I train long - distance running
+- 💫 2022 Goals: Learn more about SAP ERP software, discover Java frameworks and reach intermediate level of SQL
 
 ##  📈 GitHub stats:
 
@@ -12,23 +11,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dawidsado&layout=compact)](https://github.com/dawidsado)
 
-##  🤝 Connect with me:
-
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-
-[1.1]: https://user-images.githubusercontent.com/77989461/175812672-192d6cac-f990-4d13-bcf0-4f319a531350.png (linkedin icon)
-[1]: https://www.linkedin.com/in/dawid-sadownik-429468236/
-[2.1]: https://cdn-icons-png.flaticon.com/512/1409/1409946.png (instagram icon)
-[2]: https://www.instagram.com/dawidsado_/
-
 ## 📁 My main - basic projects with specififc description:
 
-### 1.MiniBankingApplication 🏦 
+## 1.MiniBankingApplication 🏦 
 
 <!-- Based on excercise from programming classes in second semester -->
 
-The main task is to create a mini - banking system.
+![MiniBankingAppChart](https://user-images.githubusercontent.com/77989461/177208582-0e667eb9-f895-4f19-858c-8cc022940d70.png)
 
 Class BankAccount implements the AccountOperations interface, which enables to: check balances, make transfers and deposits. 
 BankAccount has information about the balance (default it is 0) and the transaction list assigned to the account.
@@ -38,21 +27,27 @@ Class Transaction represent bank transactions. There is information about the su
 
 The user class has first name and last name attributes and a constructor.
 There are three types of users (3 classes).
-1.	Client - has assigned account (in general-id of users is generated automatically), is able to use operations from the account. (super constructor and implementation of interface)
+1.	Client - has assigned account (in general-id of users is generated automatically), is able to use operations from the account. (super constructor and implementation of interface).
 2.	 Employee - is able to add new clients and open a new account.
 3.	 Admin – also can add new clients, additionally can add and remove employees.
 
 In addition, I created CreditCardForm class, which is responsible for the process of credit card registration and extends Client. Class store number of the card, CVC code and expiration year, which is randomly picked from static list where available years are located (20 next years from current). The list should be initialized with the use of a static initialization block. To get current year I use the Date class. 
+I also created an interface that enables every user to generate password. I based algorithm on  first letters of first and last name,  ID, underscore char and hash code value.
 
-#### What had I learned during that task? 🤔
+
+### What had I learned during that task? 🤔
 
 •	Working with interfaces, subclass constructors, abstract and inheritance classes
+
+•	For loop and initialization block
 
 •	More practical use of lists
 
 •	Creating and throwing custom exceptions
 
-•	Use of Date class 
+•	Use of Date class
+
+•	Methods like hashCode and valueOf
 
 
 
@@ -75,3 +70,16 @@ Cart class also has a method to add products (to cart in that case) but in an ex
 •	Constructors overloading
 
 •	Implementation and use of lists in classes
+
+
+
+
+##  🤝 Connect with me:
+
+[![alt text][1.1]][1]
+[![alt text][2.1]][2]
+
+[1.1]: https://user-images.githubusercontent.com/77989461/175812672-192d6cac-f990-4d13-bcf0-4f319a531350.png (linkedin icon)
+[1]: https://www.linkedin.com/in/dawid-sadownik-429468236/
+[2.1]: https://cdn-icons-png.flaticon.com/512/1409/1409946.png (instagram icon)
+[2]: https://www.instagram.com/dawidsado_/
