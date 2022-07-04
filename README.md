@@ -51,7 +51,7 @@ I also created an interface that enables every user to generate password. I base
 
 
 
-### 2. MiniShoppingApp 🛒
+## 2. MiniShoppingApp 🛒
 
 <!-- Also based on excercise from programming classes in second semester -->
 
@@ -63,7 +63,7 @@ In Category  class one of the attributes is ArrayList which stores Product objec
 
 Cart class also has a method to add products (to cart in that case) but in an extended version. The process of adding new products is extending the list in cart and there should not be a possibility to add more products than the real amount of them in stock. The payment method is using a for-each loop which iterates through the list and returns the price of all products in the cart.
 
-#### What had I learned during that task? 🤔
+### What had I learned during that task? 🤔
 
 •	Loops, especially for - each loop which is better in working at collections
 
