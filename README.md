@@ -4,6 +4,8 @@
 
 - ☕ I’m currently learning about fundamental aspects of OOP in Java and ERP software, especially SAP
 - 💫 2022 Goals: Learn more about SAP ERP software, discover Java frameworks and reach intermediate level in SQL
+
+<br></br>
 <br></br>
 
 ##  📈 GitHub stats:
