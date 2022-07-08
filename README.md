@@ -1,5 +1,5 @@
-# Hi there, I'm Dawid 👋 
-  
+# Hi there, I'm Dawid 👋
+
 ## I'm a student at Polish - Japanese Academy of Information Technology 🇵🇱 🇯🇵
 
 - ☕ I’m currently learning about fundamental aspects of OOP in Java and ERP software, especially SAP
