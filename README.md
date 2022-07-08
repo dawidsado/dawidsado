@@ -15,8 +15,6 @@
 
 # 📁 My main - basic projects with specififc description:
 
-<br></br>
-
 # 1.MiniBankingApplication 🏦
 https://github.com/dawidsado/MiniBankingApp
 
@@ -32,10 +30,14 @@ In case of incorrect data given to transfer I created the AccountOperationExcept
 ![Obraz 08 07 2022, godz  11 53](https://user-images.githubusercontent.com/77989461/177967198-f729a137-e9de-4089-bef1-f4fd1b3c8d4d.jpg)
 ![Obraz 08 07 2022, godz  12 04](https://user-images.githubusercontent.com/77989461/177969849-0c023b27-9904-42ed-89b3-314d1ef1807f.jpg)
 
+<br></br>
 
 Class Transaction represent bank transactions. There is information about the sum of transaction, receiver and sender accounts. The class also enables us to simulate the transaction process (amount of money is deleted and added to given accounts). 
 
 ![Obraz 08 07 2022, godz  11 55](https://user-images.githubusercontent.com/77989461/177967645-4eadf490-4cdf-4be9-b355-90f475deb7f7.jpg)
+
+<br></br>
+
 
 The user class has first name and last name attributes and a constructor.
 There are three types of users (3 classes).
