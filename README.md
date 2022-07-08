@@ -13,7 +13,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dawidsado&layout=compact)](https://github.com/dawidsado)
 
 
-# 📁 My main - basic projects with specififc description:
+# 📁 My main projects with specififc description:
 
 # 1.MiniBankingApplication 🏦
 https://github.com/dawidsado/MiniBankingApp
