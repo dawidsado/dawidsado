@@ -12,6 +12,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dawidsado&layout=compact)](https://github.com/dawidsado)
 
+<br></br>
 
 # 📁 My main projects with specififc description:
 
