@@ -5,15 +5,13 @@
 - ☕ I’m currently learning about fundamental aspects of OOP in Java and ERP software, especially SAP
 - 💫 2022 Goals: Learn more about SAP ERP software, discover Java frameworks and reach intermediate level in SQL
 
-<br></br>
 
 ##  📈 GitHub stats:
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=dawidsado)](https://github.com/dawidsado)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dawidsado&layout=compact)](https://github.com/dawidsado)
-<br></br>
-<br></br>
+
 
 # 📁 My main - basic projects with specififc description:
 
