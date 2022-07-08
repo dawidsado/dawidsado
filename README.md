@@ -22,6 +22,8 @@ https://github.com/dawidsado/MiniBankingApp
 
 ![MiniBankingAppChart](https://user-images.githubusercontent.com/77989461/177208582-0e667eb9-f895-4f19-858c-8cc022940d70.png)
 
+<br></br>
+
 Class BankAccount implements the AccountOperations interface, which enables to: check balances, make transfers and deposits. 
 BankAccount has information about the balance (default it is 0) and the transaction list assigned to the account.
 In case of incorrect data given to transfer I created the AccountOperationException.
@@ -38,35 +40,48 @@ Class Transaction represent bank transactions. There is information about the su
 
 <br></br>
 
-
 The user class has first name and last name attributes and a constructor.
 There are three types of users (3 classes).
 
 ![Obraz 08 07 2022, godz  11 56](https://user-images.githubusercontent.com/77989461/177967652-8be457af-9df8-4c34-a76d-63bc5597b0ac.jpg)
 
+<br></br>
+
 1.	Client - has assigned account (in general-id of users is generated automatically), is able to use operations from the account. (super constructor and implementation of interface).
 
 ![Obraz 08 07 2022, godz  11 59](https://user-images.githubusercontent.com/77989461/177968129-faa432ed-f54a-4448-8261-74b7ebeec851.jpg)
+
+<br></br>
 
 2.	 Employee - is able to add new clients and open a new account.
 
 ![Obraz 08 07 2022, godz  11 59 (1)](https://user-images.githubusercontent.com/77989461/177968144-4ddd69c7-09f6-4fbf-bd82-643d6f11d8d6.jpg)
 
+<br></br>
+
 3.	 Admin – also can add new clients, additionally can add and remove employees.
 
 ![Obraz 08 07 2022, godz  12 01](https://user-images.githubusercontent.com/77989461/177968777-80a2608c-def1-4712-8682-10e8529e10e6.jpg)
+
+<br></br>
 
 In addition, I created CreditCardForm class, which is responsible for the process of credit card registration and extends Client. Class store number of the card, CVC code and expiration year, which is randomly picked from static list where available years are located (20 next years from current). The list should be initialized with the use of a static initialization block. To get current year I use the Date class. 
 
 ![Obraz 08 07 2022, godz  12 01 (1)](https://user-images.githubusercontent.com/77989461/177968855-360222eb-5bfd-44f6-8355-42951ce321ec.jpg)
 
+<br></br>
+
 I also created an interface that enables every user to generate password. I based algorithm on  first letters of first and last name,  ID, underscore char and hash code value.
 
 ![Obraz 08 07 2022, godz  12 06](https://user-images.githubusercontent.com/77989461/177970865-1a1bcb82-a491-4fec-bfe7-32c4890f5214.jpg)
 
+<br></br>
+
 ## Test
 
 https://user-images.githubusercontent.com/77989461/177971379-c4f72c18-7e3c-41d8-9924-ed8657628f1f.mp4
+
+<br></br>
 
 ## What had I learned during that task? 🤔
 
@@ -82,6 +97,7 @@ https://user-images.githubusercontent.com/77989461/177971379-c4f72c18-7e3c-41d8-
 
 •	Methods like hashCode and valueOf
 
+<br></br>
 
 # 2. MiniShoppingApp 🛒
 
