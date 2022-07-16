@@ -2,7 +2,7 @@
 
 ## I'm a student at Polish - Japanese Academy of Information Technology 🇵🇱 🇯🇵
 
-- ☕ I’m currently learning about fundamental aspects of OOP in Java and ERP software, especially SAP
+- ☕ I’m currently learning about fundamental aspects of OOP in Java and ERP software
 - 💫 2022 Goals: Learn more about SAP ERP software, discover Java frameworks and reach intermediate level in SQL
 
 
