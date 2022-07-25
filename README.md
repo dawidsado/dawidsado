@@ -1,4 +1,4 @@
-# 🤓 I’m David
+# 🤓 Hi there
 
 - 📚 Studying at the Polish - Japanese Academy of Information Technology in Warsaw
 - ☕ Currently learning about fundamental aspects of OOP in Java, external frameworks and ERP software
@@ -46,4 +46,5 @@ https://github.com/dawidsado/MiniWebShop
 ![MiniShoppingAppUML](https://user-images.githubusercontent.com/77989461/180862500-14b75559-7368-4a62-b04e-71674c678f5b.png)
 
 #  🤝 Connect with me:
-
+<a href="https://www.linkedin.com/in/dawid-sadownik-429468236/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Dawid | LinkedIn" width="90px"/></a>
+<a href="https://instagram.com/dawidsado_"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Dawid | Instagram" width="90px"/></a>
