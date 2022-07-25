@@ -1,9 +1,18 @@
-# I’m David 🤓
+# 🤓 I’m David
 
 - 📚 Studying at the Polish - Japanese Academy of Information Technology in Warsaw
 - ☕ Currently learning about fundamental aspects of OOP in Java, external frameworks and ERP software
 - 💫 2022 Goals: Learn more about SAP ERP software, Java and reach an intermediate level in SQL
 
+<br></br>
+# 🤖 Technologies and tools
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+<br></br>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+<br></br>
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<br></br>
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <br></br>
 
 #  📈 GitHub stats:
@@ -39,10 +48,5 @@ https://github.com/dawidsado/MiniWebShop
 
 #  🤝 Connect with me:
 
-[![alt text][1.1]][1]
-[![alt text][2.1]][2]
-
-[1.1]: https://user-images.githubusercontent.com/77989461/175812672-192d6cac-f990-4d13-bcf0-4f319a531350.png (linkedin icon)
-[1]: https://www.linkedin.com/in/dawid-sadownik-429468236/
-[2.1]: https://cdn-icons-png.flaticon.com/512/1409/1409946.png (instagram icon)
-[2]: https://www.instagram.com/dawidsado_/
+<a href=”https://www.linkedin.com/in/dawid-sadownik-429468236/"> <img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”" width=”21px”/>
+</a>
