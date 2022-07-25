@@ -28,8 +28,6 @@
 
 # 👨‍💻 Mini Portfolio
 ![465E3DA0-8158-4D5D-9F6E-04B6E2D2C8AF_1_201_a](https://user-images.githubusercontent.com/77989461/180871634-edc13df4-ce69-4bb8-824a-8b57463abb69.jpeg)
-<br></br>
-
 ## •	MiniBankingApplication 🏧
 https://github.com/dawidsado/MiniBankingApp
 
