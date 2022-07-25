@@ -28,10 +28,11 @@ https://github.com/dawidsado/MiniBankingApp
 <br></br>
 
 ![80AB3505-BFB3-4EA1-8DB7-2092C730A468](https://user-images.githubusercontent.com/77989461/180862108-8ffd4dd7-8481-4288-8f39-b5dc0fc78893.jpeg)
+<br></br>
+<br></br>
 
-
-# •	MiniShoppingApp 🛒
-
+## •	MiniShoppingApp 🛒
+https://github.com/dawidsado/MiniWebShop
 <!-- Also based on excercise from programming classes in second semester -->
 
 ![MiniShoppingAppUML](https://user-images.githubusercontent.com/77989461/180862500-14b75559-7368-4a62-b04e-71674c678f5b.png)
