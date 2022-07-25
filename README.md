@@ -14,6 +14,9 @@
 <br></br>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
+#  🤝 Connect with me:
+<a href="https://www.linkedin.com/in/dawid-sadownik-429468236/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Dawid | LinkedIn" width="90px"/></a>
+<a href="https://instagram.com/dawidsado_"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Dawid | Instagram" width="90px"/></a>
 
 #  📈 GitHub stats:
 
@@ -33,7 +36,7 @@ https://github.com/dawidsado/MiniBankingApp
 
 ![MiniBankingAppUML2](https://user-images.githubusercontent.com/77989461/180860809-ee2aecef-7e49-4e80-8312-557764117844.png)
 
-<br></br>
+
 
 ![80AB3505-BFB3-4EA1-8DB7-2092C730A468](https://user-images.githubusercontent.com/77989461/180862108-8ffd4dd7-8481-4288-8f39-b5dc0fc78893.jpeg)
 <br></br>
@@ -44,7 +47,3 @@ https://github.com/dawidsado/MiniWebShop
 <!-- Also based on excercise from programming classes in second semester -->
 
 ![MiniShoppingAppUML](https://user-images.githubusercontent.com/77989461/180862500-14b75559-7368-4a62-b04e-71674c678f5b.png)
-
-#  🤝 Connect with me:
-<a href="https://www.linkedin.com/in/dawid-sadownik-429468236/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Dawid | LinkedIn" width="90px"/></a>
-<a href="https://instagram.com/dawidsado_"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Dawid | Instagram" width="90px"/></a>
