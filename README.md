@@ -4,7 +4,7 @@
 - ☕ Currently learning about fundamental aspects of OOP in Java, external frameworks and ERP software
 - 💫 2022 Goals: Learn more about SAP ERP software, Java and reach an intermediate level in SQL
 
-<br></br>
+
 # 🤖 Technologies and tools
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 <br></br>
@@ -13,7 +13,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 <br></br>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-<br></br>
+
 
 #  📈 GitHub stats:
 
@@ -21,7 +21,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dawidsado&layout=compact)](https://github.com/dawidsado)
 
-<br></br>
 
 # 👨‍💻 Mini Portfolio
 
@@ -48,5 +47,3 @@ https://github.com/dawidsado/MiniWebShop
 
 #  🤝 Connect with me:
 
-<a href=”https://www.linkedin.com/in/dawid-sadownik-429468236/"> <img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”" width=”21px”/>
-</a>
