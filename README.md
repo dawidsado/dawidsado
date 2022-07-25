@@ -47,3 +47,5 @@ https://github.com/dawidsado/MiniWebShop
 <!-- Also based on excercise from programming classes in second semester -->
 
 ![MiniShoppingAppUML](https://user-images.githubusercontent.com/77989461/180862500-14b75559-7368-4a62-b04e-71674c678f5b.png)
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=dawidsadownik.dawidsadownik)](http://www.dawidsadownik.pl/)
