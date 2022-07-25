@@ -14,19 +14,17 @@
 <br></br>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-#  🤝 Connect with me:
-<a href="https://www.linkedin.com/in/dawid-sadownik-429468236/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Dawid | LinkedIn" width="90px"/></a>
-<a href="https://instagram.com/dawidsado_"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Dawid | Instagram" width="90px"/></a>
-<br></br>
-<br></br>
-
 #  📈 GitHub stats:
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=dawidsado)](https://github.com/dawidsado)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dawidsado&layout=compact)](https://github.com/dawidsado)
 
-
+#  🤝 Connect with me:
+<a href="https://www.linkedin.com/in/dawid-sadownik-429468236/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Dawid | LinkedIn" width="90px"/></a>
+<a href="https://instagram.com/dawidsado_"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Dawid | Instagram" width="90px"/></a>
+<br></br>
+<br></br>
 # 👨‍💻 Mini Portfolio
 
 <br></br>
