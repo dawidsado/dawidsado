@@ -17,6 +17,8 @@
 #  🤝 Connect with me:
 <a href="https://www.linkedin.com/in/dawid-sadownik-429468236/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Dawid | LinkedIn" width="90px"/></a>
 <a href="https://instagram.com/dawidsado_"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Dawid | Instagram" width="90px"/></a>
+<br></br>
+<br></br>
 
 #  📈 GitHub stats:
 
