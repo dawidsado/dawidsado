@@ -1,11 +1,11 @@
-# 🤓 HI THERE
+# 😎 HI THERE
 
 - 📚 Studying at the Polish - Japanese Academy of Information Technology in Warsaw
 - ☕ Currently learning about fundamental aspects of OOP in Java, external frameworks and ERP software
 - 💫 2022 Goals: Learn more about SAP ERP software, Java and reach an intermediate level in SQL
 
 
-# 🤖 TECHNOLOGIES & TOOLS
+# 🚀 TECHNOLOGIES & TOOLS
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 <br></br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
