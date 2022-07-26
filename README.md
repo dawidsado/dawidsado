@@ -29,7 +29,7 @@
 
 # 👨‍💻 PORTFOLIO
 ![465E3DA0-8158-4D5D-9F6E-04B6E2D2C8AF_1_201_a](https://user-images.githubusercontent.com/77989461/180871634-edc13df4-ce69-4bb8-824a-8b57463abb69.jpeg)
-## •	MiniBankingApplication 🏧
+## •	MINI BANKING APPLICATION 🏧
 https://github.com/dawidsado/MiniBankingApp
 
 <!-- Based on excercise from programming classes in second semester -->
@@ -42,7 +42,7 @@ https://github.com/dawidsado/MiniBankingApp
 <br></br>
 <br></br>
 
-## •	MiniShoppingApplication 🛒
+## •	MINI SHOPPING APPLICATION 🛒
 https://github.com/dawidsado/MiniWebShop
 <!-- Also based on excercise from programming classes in second semester -->
 
@@ -52,7 +52,10 @@ https://github.com/dawidsado/MiniWebShop
 <br></br>
 <br></br>
 
-## •	UniversityWebsiteTestSelenium 
+## •	UNIVERSITY WEBSITE TEST ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+
+![seleniumGifConverted](https://user-images.githubusercontent.com/77989461/181012007-c1d5ecdf-d047-4628-9f98-81511b4b439a.gif)
+
 
 
 
