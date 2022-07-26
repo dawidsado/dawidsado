@@ -61,8 +61,6 @@ https://github.com/dawidsado/CheckingScheduleSelenium
 ## •	LANDING PAGE 🌐
 https://github.com/dawidsado/LandingPage
 
-
-
-
+https://user-images.githubusercontent.com/77989461/181112321-7922ba54-1c2d-4632-9f1e-065ea65c9132.mp4
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=dawidsadownik.dawidsadownik)](http://www.dawidsadownik.pl/)
