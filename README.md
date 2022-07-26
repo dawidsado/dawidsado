@@ -14,7 +14,7 @@
 <br></br>
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-#  📈 GITHUB STATS:
+#  📈 GITHUB STATS
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=dawidsado)](https://github.com/dawidsado)
 
@@ -35,10 +35,8 @@ https://github.com/dawidsado/MiniBankingApp
 <!-- Based on excercise from programming classes in second semester -->
 
 ![MiniBankingAppUML2](https://user-images.githubusercontent.com/77989461/180860809-ee2aecef-7e49-4e80-8312-557764117844.png)
+![A97B8316-56CA-4698-A033-F7215099AF76](https://user-images.githubusercontent.com/77989461/181108895-ec90c76c-ef35-43f0-902e-b55125a350a1.jpeg)
 
-
-
-![80AB3505-BFB3-4EA1-8DB7-2092C730A468](https://user-images.githubusercontent.com/77989461/180862108-8ffd4dd7-8481-4288-8f39-b5dc0fc78893.jpeg)
 <br></br>
 <br></br>
 
@@ -47,14 +45,22 @@ https://github.com/dawidsado/MiniWebShop
 <!-- Also based on excercise from programming classes in second semester -->
 
 ![MiniShoppingAppUML](https://user-images.githubusercontent.com/77989461/180862500-14b75559-7368-4a62-b04e-71674c678f5b.png)
+![FE12E694-6916-47EB-AF2B-F81155586AC0](https://user-images.githubusercontent.com/77989461/181108303-bd3a8dcc-fc14-488a-9a3e-bab23ef06f89.jpeg)
 
-![974DFD8B-2E05-4645-A2ED-2BFF270066FF_1_201_a](https://user-images.githubusercontent.com/77989461/181010464-fc9969b2-cb0f-4b5c-a5dd-d6b27c48af0f.jpeg)
+
 <br></br>
 <br></br>
 
-## •	UNIVERSITY WEBSITE TEST ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+## •	UNIVERSITY SITE TEST ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+https://github.com/dawidsado/CheckingScheduleSelenium
 
 ![seleniumGifConverted](https://user-images.githubusercontent.com/77989461/181012007-c1d5ecdf-d047-4628-9f98-81511b4b439a.gif)
+
+![7DE97FF8-1B71-472C-8ACA-F41177561EFF](https://user-images.githubusercontent.com/77989461/181108131-ea2f149b-b118-41e6-a996-8b2cc46a7554.jpeg)
+
+## •	LANDING PAGE 🌐
+https://github.com/dawidsado/LandingPage
+
 
 
 
