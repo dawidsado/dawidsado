@@ -1,4 +1,4 @@
-# 😎 HI THERE
+# 🙋‍♂️ HI THERE
 
 - 📚 Studying at the Polish - Japanese Academy of Information Technology in Warsaw
 - ☕ Currently learning about fundamental aspects of OOP in Java, external frameworks and ERP software
