@@ -61,7 +61,7 @@ https://github.com/dawidsado/MiniWebShop
 <br></br>
 
 ## •	UNIVERSITY SITE TEST ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-https://github.com/dawidsado/CheckingScheduleSelenium
+https://github.com/dawidsado/UniversityWebsiteTest
 
 ![seleniumGifConverted](https://user-images.githubusercontent.com/77989461/181012007-c1d5ecdf-d047-4628-9f98-81511b4b439a.gif)
 
