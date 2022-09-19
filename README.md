@@ -40,44 +40,60 @@
 ![465E3DA0-8158-4D5D-9F6E-04B6E2D2C8AF_1_201_a](https://user-images.githubusercontent.com/77989461/180871634-edc13df4-ce69-4bb8-824a-8b57463abb69.jpeg)
 <br></br>
 
-## •	MINI BANKING APPLICATION 🏧
+# •	MINI BANKING APPLICATION 🏧
 https://github.com/dawidsado/MiniBankingApp
+<br></br>
 
+## •	DESCRIPTION 📌
+
+The simple banking system simulates the process of operations such as account balance check, transfer, deposit, generating an individual password for users, and creating credit cards.
+
+There are three different types of users (they have different possibilities, e.g. Admin has the widest range of them and User the most narrow one).
 <!-- Based on excercise from programming classes in second semester -->
 
 ![MiniBankingAppUML2](https://user-images.githubusercontent.com/77989461/180860809-ee2aecef-7e49-4e80-8312-557764117844.png)
 
-![A97B8316-56CA-4698-A033-F7215099AF76](https://user-images.githubusercontent.com/77989461/181108895-ec90c76c-ef35-43f0-902e-b55125a350a1.jpeg)
+<br></br>
+<br></br>
+
+# •  CURRENCY CONVERTER JSOUP 💲
+https://github.com/dawidsado/CurrencyConverterJSoup
+<br></br>
+
+## •	DESCRIPTION 📌
+
+Basic currency converter which enables conversion based on the amount provided by the user to other currencies. (Note that I focused on main currencies – Euro, US Dollar, British Pound, and Polish Zloty). 
+To download actual exchange rates I used the JSoup library and the capability to inspect webpage source code.
+Then I parse those values into doubles.
+
+Using JUnit framework I created unit tests of every method in Downloader, FromZlotyConversions, and IntoZlotyConversions classes.
 
 <br></br>
 <br></br>
 
-## •	MINI SHOPPING APPLICATION 🛒
-https://github.com/dawidsado/MiniWebShop
-
-<!-- Also based on excercise from programming classes in second semester -->
-
-![MiniShoppingAppUML](https://user-images.githubusercontent.com/77989461/180862500-14b75559-7368-4a62-b04e-71674c678f5b.png)
-
-![FE12E694-6916-47EB-AF2B-F81155586AC0](https://user-images.githubusercontent.com/77989461/181108303-bd3a8dcc-fc14-488a-9a3e-bab23ef06f89.jpeg)
-
-<br></br>
-<br></br>
-
-## •	UNIVERSITY SITE TEST ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+# •	UNIVERSITY SITE TEST ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 https://github.com/dawidsado/UniversityWebsiteTest
+<br></br>
+
+## •	DESCRIPTION 📌
+
+Using the basic functions from the external Selenium library and the ability to inspect webpage source code I created an algorithm that is able to log into my student account and check the schedule for the upcoming week.
 
 ![seleniumGifConverted](https://user-images.githubusercontent.com/77989461/181012007-c1d5ecdf-d047-4628-9f98-81511b4b439a.gif)
 
-![7DE97FF8-1B71-472C-8ACA-F41177561EFF](https://user-images.githubusercontent.com/77989461/181108131-ea2f149b-b118-41e6-a996-8b2cc46a7554.jpeg)
-
 <br></br>
 <br></br>
 
-## •	LANDING PAGE 🌐
+# •	LANDING PAGE 🌐
 https://github.com/dawidsado/LandingPage
+<br></br>
 
-![3145A313-0555-4F13-AF5A-AE4B0DEA55C9](https://user-images.githubusercontent.com/77989461/181115034-972fca13-84b8-44ff-8763-28622e4240df.jpeg)
+## •	DESCRIPTION 📌
+
+I use my knowledge acquired during the course about fundamental web development technologies (CSS and HTML) to create simple, responsive landing page.
+
+There is an option to send a form (with the use of the Formsubmit.io platform) to contact me.
+
 
 https://user-images.githubusercontent.com/77989461/181115187-0957283b-4804-4eed-ba90-0b9954643da4.mp4
 
