@@ -1,4 +1,4 @@
-# 🙋‍♂️ HI THERE
+# 🙋‍♂️ INTRODUCTION
 
 - 📚 Studying at the Polish - Japanese Academy of Information Technology in Warsaw
 - 💁‍♂️ Currently learning about SAP ERP system and developing knowledge of SQL
