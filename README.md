@@ -68,7 +68,7 @@ Then I parse those values into doubles.
 
 Using JUnit framework I created unit tests of every method in Downloader, FromZlotyConversions, and IntoZlotyConversions classes.
 
-![CurrencyConverterUML](https://user-images.githubusercontent.com/77989461/191130073-95e23f55-eac4-42ee-a5df-d0a4ecae5e36.png)
+![CurrencyConverterUML](https://user-images.githubusercontent.com/77989461/191131419-e0cbb4a8-1aba-4293-89ac-914bf1d7b668.png)
 
 <br></br>
 <br></br>
