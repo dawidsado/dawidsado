@@ -71,7 +71,7 @@ Using JUnit framework I created unit tests of every method in Downloader, FromZl
 <br></br>
 <br></br>
 
-# •	UNIVERSITY SITE TEST ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+# •	UNIVERSITY WEBSITE TEST ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 https://github.com/dawidsado/UniversityWebsiteTest
 <br></br>
 
