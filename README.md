@@ -49,9 +49,8 @@ https://github.com/dawidsado/MiniBankingApp
 The simple banking system simulates the process of operations such as account balance check, transfer, deposit, generating an individual password for users, and creating credit cards.
 
 There are three different types of users (they have different possibilities, e.g. Admin has the widest range of them and User the most narrow one).
-<!-- Based on excercise from programming classes in second semester -->
 
-![MiniBankingAppUML2](https://user-images.githubusercontent.com/77989461/180860809-ee2aecef-7e49-4e80-8312-557764117844.png)
+![CurrencyConverterUML (1)](https://user-images.githubusercontent.com/77989461/191131621-3855a60c-369e-42fa-bd46-880af3511883.png)
 
 <br></br>
 <br></br>
