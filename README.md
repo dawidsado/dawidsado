@@ -1,21 +1,21 @@
 # 🙋‍♂️ HI THERE
 
 - 📚 Studying at the Polish - Japanese Academy of Information Technology in Warsaw
-- ☕ Currently learning about fundamental aspects of OOP in Java, external frameworks and ERP software
-- 💫 2022 Goals: Learn more about SAP ERP software, Java and reach an intermediate level in SQL
+- 💁‍♂️ Currently learning about SAP ERP system and developing knowledge from SQL
+- 💫 Goals: Get to know better the SAP software, extend knowledge from UML, and be able to use SQL in practice!
 
 
-# 🚀 TECHNOLOGIES & TOOLS
+
+# 🚀 TECHNOLOGIES
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+<br></br>
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 <br></br>
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 <br></br>
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 <br></br>
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-<br></br>
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 #  📈 GITHUB STATS
 
