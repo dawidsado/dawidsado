@@ -90,9 +90,9 @@ https://github.com/dawidsado/LandingPage
 
 ## •	DESCRIPTION 📌
 
-I use my knowledge acquired during the course about fundamental web development technologies (CSS and HTML) to create simple, responsive landing page.
+I used my knowledge acquired during the course about fundamental web development technologies (CSS and HTML) to create simple, responsive landing page.
 
-There is an option to send a form (with the use of the Formsubmit.io platform) to contact me.
+There is also an option to send a form (with the use of the Formsubmit.io platform) to contact me.
 
 https://user-images.githubusercontent.com/77989461/181115187-0957283b-4804-4eed-ba90-0b9954643da4.mp4
 
