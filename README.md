@@ -1,7 +1,7 @@
 # 🙋‍♂️ HI THERE
 
 - 📚 Studying at the Polish - Japanese Academy of Information Technology in Warsaw
-- 💁‍♂️ Currently learning about SAP ERP system and developing knowledge from SQL
+- 💁‍♂️ Currently learning about SAP ERP system and developing knowledge of SQL
 - 💫 Goals: Get to know better the SAP software, extend knowledge from UML, and be able to use SQL in practice!
 
 
