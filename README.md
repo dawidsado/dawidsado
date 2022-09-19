@@ -50,7 +50,7 @@ The simple banking system simulates the process of operations such as account ba
 
 There are three different types of users (they have different possibilities, e.g. Admin has the widest range of them and User the most narrow one).
 
-![CurrencyConverterUML (1)](https://user-images.githubusercontent.com/77989461/191131621-3855a60c-369e-42fa-bd46-880af3511883.png)
+![MiniBankingAppUML2](https://user-images.githubusercontent.com/77989461/191131992-eeb2e067-1e99-4c1a-9ef5-0a78c0e15ed4.png)
 
 <br></br>
 <br></br>
