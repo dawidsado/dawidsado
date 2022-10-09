@@ -97,4 +97,4 @@ There is also an option to send a form (with the use of the Formsubmit.io platfo
 
 https://user-images.githubusercontent.com/77989461/181115187-0957283b-4804-4eed-ba90-0b9954643da4.mp4
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=dawidsadownik.dawidsadownik)](http://dawidsadownik.pl/)
+[Visitors](https://visitor-badge.glitch.me/badge?page_id=dawidsadownik.dawidsadownik)](http://dawidsadownik.pl/)
