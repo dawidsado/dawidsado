@@ -40,7 +40,7 @@
 ![465E3DA0-8158-4D5D-9F6E-04B6E2D2C8AF_1_201_a](https://user-images.githubusercontent.com/77989461/180871634-edc13df4-ce69-4bb8-824a-8b57463abb69.jpeg)
 <br></br>
 
-# •	POTENTIAL OUTFIT FOR CURRENT WEATHER
+# •	POTENTIAL OUTFIT FOR CURRENT WEATHER 🌤🧤
 https://github.com/dawidsado/PotentialOutfitForCurrentWeather
 <br></br>
 
@@ -58,6 +58,9 @@ The main outline of the final app version:
 -	Wardrobe might be extended, but it isn’t the most important area of the app
 -	At the end-user will receive outfits propositions for his upcoming holidays
 
+![api](https://user-images.githubusercontent.com/77989461/206016339-f6c00627-8d8c-4937-ac31-d79e2d799a17.png)
+
+<a href="https://www.flaticon.com/free-icons/api" title="api icons">Api icons created by Eucalyp - Flaticon</a>
 <br></br>
 <br></br>
 
