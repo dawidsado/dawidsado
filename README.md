@@ -24,8 +24,7 @@
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=dawidsado)](https://github.com/dawidsado)
 
 
-
-[![stats]https://github-readme-stats.vercel.app/api?username={dawidsado}&theme=blue-green
+	https://github-readme-stats.vercel.app/api?username=dawidsado&theme=blue-green
 
 
 
