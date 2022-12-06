@@ -40,17 +40,23 @@
 ![465E3DA0-8158-4D5D-9F6E-04B6E2D2C8AF_1_201_a](https://user-images.githubusercontent.com/77989461/180871634-edc13df4-ce69-4bb8-824a-8b57463abb69.jpeg)
 <br></br>
 
-# •	MINI BANKING APPLICATION 🏧
-https://github.com/dawidsado/MiniBankingApp
+# •	POTENTIAL OUTFIT FOR CURRENT WEATHER
+https://github.com/dawidsado/PotentialOutfitForCurrentWeather
 <br></br>
 
 ## •	DESCRIPTION 📌
 
-The simple banking system simulates the process of operations such as account balance check, transfer, deposit, generating an individual password for users, and creating credit cards.
+Using weather API and knowledge about object-oriented programming I developed an app that based on current weather is able to suggest the most suitable outfit for the user.
 
-There are three different types of users (they have different possibilities, e.g. Admin has the widest range of them and User the most narrow one).
+API from OpenWeatherMap, I used a version with current weather data in the area chosen by me (I picked Warsaw, but it is only an example, location can be changed in the future).
 
-![MiniBankingAppUML2](https://user-images.githubusercontent.com/77989461/191131992-eeb2e067-1e99-4c1a-9ef5-0a78c0e15ed4.png)
+I am planning to extend the app. I want to do unit tests in JUnit.
+The main outline of the final app version: 
+-	Outfits going to be prepared but in need of a potential trip to other countries
+-	The weather forecast will be changed for a longer term, on the date of the potential user trip
+-	Forecast will refer to that specific country where the user is heading for holidays
+-	Wardrobe might be extended, but it isn’t the most important area of the app
+-	At the end-user will receive outfits propositions for his upcoming holidays
 
 <br></br>
 <br></br>
