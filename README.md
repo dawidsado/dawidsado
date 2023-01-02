@@ -78,6 +78,10 @@ Then I parse those values into doubles.
 
 Using JUnit framework I created unit tests of every method in Downloader, FromZlotyConversions, and IntoZlotyConversions classes.
 
+![exchange](https://user-images.githubusercontent.com/77989461/210273663-02bca505-c5a0-45b1-a3a1-0bea87f98c87.png)
+
+<a href="https://www.flaticon.com/free-icons/currency" title="currency icons">Currency icons created by Pixel perfect - Flaticon</a>
+
 <br></br>
 <br></br>
 
