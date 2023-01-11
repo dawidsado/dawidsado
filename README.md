@@ -1,8 +1,8 @@
 # 🙋‍♂️ INTRODUCTION
 
 -  Studying at the Polish - Japanese Academy of Information Technology in Warsaw
--  Currently learning about SAP ERP system, Python, and developing knowledge of SQL
--  Goals: Get to know better the SAP software, extend Python knowledge, and be able to use SQL in practice!
+-  Currently learning about Python, and developing knowledge of SQL
+-  Goals: extend Python knowledge, and be able to use SQL in practice!
 
 
 
